@@ -8,5 +8,5 @@ docker build -t le-juste-prix .
 ```
 - Exécuter 
 ```sh
-docker build -t le-juste-prix .
+docker run --rm le-juste-prix .
 ```
